@@ -72,14 +72,17 @@ The following table will describe about cities and places to visit in that city 
 # Code Fencing
 
 * Select Multiple Files
-    >   How to select multiple files with <input type="file">?
+
+    >   How to select multiple files with input type="file"?
     >   [Click here for answer](https://stackoverflow.com/questions/1593225/how-to-select-multiple-files-with-input-type-file)
+
+<br>
 
 ```
     <form method="post" action="upload.php" enctype="multipart/form-data">
     <input name='uploads[]' type="file" multiple>
     <input type="submit" value="Send">
-    </form> ```
-
-[Snipper Source Link](https://css-tricks.com/snippets/html/multiple-file-input/)
+    </form> 
+```
+[Snippet Source Link](https://css-tricks.com/snippets/html/multiple-file-input/)
 
