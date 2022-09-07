@@ -55,3 +55,14 @@ The following table will describe about cities and places to visit in that city 
 | Vizag      | Araku Valley   |  80 Minutes   |
 | Tirupati   | Tirumala       |  40 Minutes   |
 | Hyderabad  | Charminar      |  30 Minutes   |
+
+
+****
+
+# Pithy Quotes
+
+* The First Quote:
+    >   The way to get started is to quit talking and begin doing. - *Walt Disney*
+
+* The Second Quote:
+    >   If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. - *James Cameron*
