@@ -40,3 +40,18 @@ Places to Visit Near Salar Jung Museum
 <br>
 
 To know more about myself [Click Here](/AboutMe.md).
+
+<br>
+
+****
+
+# Tables
+
+The following table will describe about cities and places to visit in that city along with the time to spend over there.
+
+|  City      | Place to Visit | Time to Spend |
+| :----:     |    :----:      |     :----:    |
+| Guntur     | Amaravathi     |  50 Minutes   |
+| Vizag      | Araku Valley   |  80 Minutes   |
+| Tirupati   | Tirumala       |  40 Minutes   |
+| Hyderabad  | Charminar      |  30 Minutes   |

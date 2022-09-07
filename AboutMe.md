@@ -4,4 +4,4 @@ I'm very much interested in developing web applications, I used to develop wordp
 
 <br>
 
-![Profile Picture](/ProfilePic.jpg)
+![Profile Picture](/ProfilePic.jpg "Profile Picture")
