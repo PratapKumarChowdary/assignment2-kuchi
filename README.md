@@ -28,3 +28,11 @@ The closest airport for this Museum is Rajiv Gandhi International Airport, Hyder
 5. ⬅️ Turn left onto Salar Jung Rd
 
 6. 📍  Your destination is on the right.
+
+Places to Visit Near Salar Jung Museum
+
+- Nijam Museum
+- Chowmahalla Palace
+- Charminar
+- Mecca Masjid
+- Birla Mandir
