@@ -19,12 +19,12 @@ The closest airport for this Museum is Rajiv Gandhi International Airport, Hyder
 
 1. ⬆️ Take a cab from Hyderabad airport and travel 20.5KM via Srisailam Highway
 
-➡️ Turn right onto Gowlipura Rd
+2. ➡️ Turn right onto Gowlipura Rd
 
-➡️ Turn right toward Sultan Shahi Rd
+3. ➡️ Turn right toward Sultan Shahi Rd
 
-⬅️ Turn left to stay on Sultan Shahi Rd
+4. ⬅️ Turn left to stay on Sultan Shahi Rd
 
-⬅️ Turn left onto Salar Jung Rd
+5. ⬅️ Turn left onto Salar Jung Rd
 
-📍  Your destination is on the right.
+6. 📍  Your destination is on the right.
