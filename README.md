@@ -17,7 +17,7 @@ various countries like **Japan, China, Burma, Nepal**.
 
 The closest airport for this Museum is Rajiv Gandhi International Airport, Hyderabad.
 
-⬆️ Take a cab from Hyderabad airport and travel 20.5KM via Srisailam Highway
+1. ⬆️ Take a cab from Hyderabad airport and travel 20.5KM via Srisailam Highway
 
 ➡️ Turn right onto Gowlipura Rd
 
