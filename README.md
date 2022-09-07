@@ -36,3 +36,7 @@ Places to Visit Near Salar Jung Museum
 - Charminar
 - Mecca Masjid
 - Birla Mandir
+
+<br>
+
+To know more about myself [Click Here](/AboutMe.md).
